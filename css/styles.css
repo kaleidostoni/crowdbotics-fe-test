@@ -1,0 +1,99 @@
+/*Navbar*/
+
+.navbar{
+    position:fixed;
+    height: 100px;
+}
+
+.navbar-title{
+    text-align: left;
+    font-weight: bolder;
+    font-size:21px;
+    margin:0;
+}
+
+.navbar-chart{
+    text-align: left;
+    font-size: 12px;
+    margin:15px 0 10px 0;
+}
+
+body > header > nav > div > div.col.\34 l.offset-l3 > div > div.col.\34 l.taylor-chart{
+    margin-top:15px;
+    margin-left: 0;
+    padding:0;
+}
+
+/*Songs section*/
+
+ #songs-container{
+    margin-top: 140px;
+}
+
+.row.song{
+    margin-bottom: 0;
+    padding-bottom: 0; 
+    clear: both;
+}
+.counter{
+    margin-top: 37px;
+    font-size: 12px;
+    color:rgb(190, 189, 189);
+}
+.image{
+    margin-top: 15px;
+}
+.track-collection, .title{
+    font-size: 11px;
+}
+.title{
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-weight: bolder;
+}
+.track-collection{
+    margin-top: 2px;
+}
+#songs-container div.col.id{
+    float: right;
+    font-size: 12px;
+    color:rgb(190, 189, 189);
+    margin-top: 40px;
+}
+.row.song{
+    margin-top: 0;
+}
+
+/*Charts Section*/
+
+body > main > section.col.l2.blue-grey.lighten-5.charts{
+    position:fixed;
+    left:815px;
+    top:148px;
+    height: 550px;
+    border-top: 1px solid gray;
+    padding: 0 48px 0 35px;
+}
+
+.charts-title{
+    margin-top:20px;
+    margin-top:35px;
+    font-size: 20px;
+    font-weight: bolder;
+    color:#3EB5E7;
+}
+
+.chart-name, .chart-description{
+    margin-top: 0;
+    margin-bottom: -10px;
+}
+
+.chart-name{
+    font-size: 12px;
+    color:#3EB5E7;
+    font-weight: bolder;
+}
+.chart-description{
+    font-size: 12px;
+    margin-top:3px;
+}
